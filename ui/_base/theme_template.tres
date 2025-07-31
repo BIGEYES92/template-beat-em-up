@@ -1,7 +1,6 @@
-[gd_resource type="Theme" load_steps=7 format=3 uid="uid://brlect5oi7d4w"]
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://brlect5oi7d4w"]
 
 [ext_resource type="StyleBox" uid="uid://dnu44uladwm6h" path="res://ui/_base/default_empty_stylebox.tres" id="1_25e22"]
-[ext_resource type="Texture2D" uid="uid://c2b6cv28pcwd5" path="res://ui/_base/pngs/panel_bg.png" id="2_cdss6"]
 [ext_resource type="FontFile" uid="uid://ckjqrrw4bf4k7" path="res://ui/_base/impact.ttf" id="3_0s3rl"]
 
 [sub_resource type="StyleBoxFlat" id="StyleBoxFlat_abo2o"]
@@ -24,7 +23,6 @@ corner_radius_bottom_right = 10
 corner_radius_bottom_left = 10
 
 [sub_resource type="StyleBoxTexture" id="StyleBoxTexture_3g3ei"]
-texture = ExtResource("2_cdss6")
 texture_margin_left = 12.0
 texture_margin_top = 170.0
 texture_margin_right = 12.0
